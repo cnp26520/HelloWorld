@@ -1,6 +1,5 @@
 # Overview
 
-
 This is a simple Hello World program in python
 
 This was created to help me understand how to properly use Visual studio code, python, and github to share work with others.
